@@ -1,0 +1,16 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Ola mundo",
+            "content": "lopem ipsum dolor",
+            "author": "isaac"
+        },
+        {
+            "id": 2,
+            "title": "Requisiçoes POST com Javascritp",
+            "content": "lopem ipsum dolor two",
+            "author": "isaac"
+        }
+    ]
+}
